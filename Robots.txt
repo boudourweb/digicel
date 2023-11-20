@@ -1,0 +1,4 @@
+user-agent: *
+disallow: /page
+allow:/page
+sitemap: https://boudourweb.github.io/digicel/
