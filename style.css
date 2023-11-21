@@ -27,7 +27,7 @@ body {
 }
 h1 {
   font-family: 'Poppins Light';
-  font-size: 2.2rem;
+  font-size: 4rem;
 }
 h2 {
   font-family: 'Poppins Regular' ;
@@ -97,7 +97,7 @@ a {
   /*text-align: center;*/
   line-height:3em;
   text-decoration: none;
-  font-size: 33px;
+  font-size: 22px;
   padding:0 1em;
 }
 /*Disparition du hamburger sur viewport >600px*/
