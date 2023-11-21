@@ -3,17 +3,17 @@
 @font-face {
   font-family: 'Poppins Light';
   src: url("Police/Poppins-Light.ttf") format("truetype");
-  font-display: swat ;
+  font-display: swap ;
 }
 @font-face {
   font-family: 'Poppins Regular';
   src: url("police/Poppins-Regular.ttf") format("truetype");
-  font-display: swat ;
+  font-display: swap ;
 }
 @font-face{
   font-family: 'Poppins Bold';
   src: url('Police/Poppins-Bold.ttf') format('truetype');
-  font-display: swat ;
+  font-display: swap ;
 }
 * {
   box-sizing: border-box;}
