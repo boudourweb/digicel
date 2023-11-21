@@ -1,4 +1,4 @@
-user-agent: *
-disallow: /page
-allow:/page
-sitemap: https://boudourweb.github.io/digicel/
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://boudourweb.github.io/digicel/
