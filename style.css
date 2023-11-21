@@ -79,7 +79,7 @@ a {
   background-color:rgba(0,0,0,0.8);
   /*overflow: hidden;*/
   display:flex;
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
+  font-family: 'Poppins Bold';
   /*height:3em;*/
 }
 
@@ -97,7 +97,7 @@ a {
   /*text-align: center;*/
   line-height:3em;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 33px;
   padding:0 1em;
 }
 /*Disparition du hamburger sur viewport >600px*/
