@@ -9,14 +9,6 @@
   src: url("police/Poppins-Regular.ttf") format("truetype");
 }
 @font-face{
-  font-family: 'Poppins Medium';
-  src: url('Police/Poppins-Medium.ttf') format('truetype');
-}
-@font-face{
-  font-family: 'Poppins Semi Bold';
-  src: url('Police/Poppins-SemiBold.ttf') format('truetype');
-}
-@font-face{
   font-family: 'Poppins Bold';
   src: url('Police/Poppins-Bold.ttf') format('truetype');
 }
