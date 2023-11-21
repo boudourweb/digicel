@@ -63,10 +63,7 @@ a {
   align-items: center;
 }
 .logo {
-  width: 16rem;
-  padding-top: 30px;
-  background-color: transparent;
-  background-image: none;
+  margin: 30px 0px;
 }
 
 .pricipal_title{
